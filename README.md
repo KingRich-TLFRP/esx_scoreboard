@@ -3,21 +3,21 @@
 esx_scoreboard
 An ESX scoreboard based off the Stadus_Scoreboard resource.
 
-Preview image
+# Preview image
 
-Feautures
+# Feautures
 Light on performance
 See all players ping, and colored depending on the ping
 Controller friendly! Dpad up or F10 to open the scoreboard by default.
 Getting uptime to work
 Properly install the uptime thing by Hawaii. If you don't want it then you can remove its code.
 
-Credits
+# Credits
 Stadus, original resource
 LifeGoal, design
 Hawaii, re-wrote the resource
 
-License
+# License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
