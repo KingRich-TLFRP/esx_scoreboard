@@ -4,6 +4,7 @@ esx_scoreboard
 An ESX scoreboard based off the Stadus_Scoreboard resource.
 
 # Preview image
+https://cdn.discordapp.com/attachments/601441310464802824/601441422649982986/20190718175214_1.jpg
 
 # Feautures
 Light on performance
