@@ -11,6 +11,9 @@ https://forum.fivem.net/uploads/default/original/4X/f/4/6/f4616f10108c7cc9e6625d
 - See all players ping, and colored depending on the ping
 - Controller friendly! Dpad up or F2 to open the scoreboard by default.
 
+# My Official Modding Team
+https://discord.gg/6AcaTvb
+
 # Getting uptime to work
 Properly install the uptime thing by Hawaii. If you don't want it then you can remove its code.
 
