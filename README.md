@@ -9,7 +9,7 @@ https://cdn.discordapp.com/attachments/601441310464802824/601441422649982986/201
 # Feautures
 - Light on performance
 - See all players ping, and colored depending on the ping
-- Controller friendly! Dpad up or F10 to open the scoreboard by default.
+- Controller friendly! Dpad up or F2 to open the scoreboard by default.
 
 # Getting uptime to work
 Properly install the uptime thing by Hawaii. If you don't want it then you can remove its code.
