@@ -1,7 +1,7 @@
 # esx_scoreboard
 128 slot esx_scoreboard
 esx_scoreboard
-An ESX scoreboard based off the Stadus_Scoreboard resource.
+An ESX scoreboard based off the [Stadus_Scoreboard](https://forum.fivem.net/t/release-esx-custom-scoreboard-with-jobs-online/84767) resource.
 
 # Preview image
 https://forum.fivem.net/uploads/default/original/4X/f/4/6/f4616f10108c7cc9e6625d3e4d7d2fc70184cff6.jpeg
