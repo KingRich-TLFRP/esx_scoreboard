@@ -53,7 +53,7 @@ function AddPlayerToScoreboard(xPlayer, update)
 		TriggerClientEvent('esx_scoreboard:updateConnectedPlayers', -1, connectedPlayers)
 	end
 
-	if xPlayer.player.getGroup() == 'user' then
+	if xPlayer.getGroup() == 'user' then
 		Citizen.CreateThread(function()
 			Citizen.Wait(3000)
 			TriggerClientEvent('esx_scoreboard:toggleID', playerId, false)
